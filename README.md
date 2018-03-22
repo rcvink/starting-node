@@ -21,6 +21,7 @@ Assuming you have Node.js and npm available in your development environment,
 ## Process
 
 1. Used `express-generator` to create a skeleton.
+2. Added babel for transpilation.
 
 ## Dependencies
 The following dependencies were used to create this project:
