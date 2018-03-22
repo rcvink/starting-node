@@ -21,7 +21,8 @@ Assuming you have Node.js and npm available in your development environment,
 ## Process
 
 1. Used `express-generator` to create a skeleton.
-2. Added babel for transpilation.
+2. Added and configured babel for transpilation.
+3. Added jasmine for testing.
 
 ## Dependencies
 The following dependencies were used to create this project:
@@ -42,8 +43,6 @@ Many other dependencies were required by these dependencies. These were not list
 
 ## Resources
 The following tutorials were used to set this up:
-- [Intro to node (Makers Academy access required)](https://github.com/makersacademy/course/blob/master/node/intro_to_node.md)
 - [Express application generator](https://expressjs.com/en/starter/generator.html)
 - [Writing Your Node.js Apps Using ES6](https://www.codementor.io/iykyvic/writing-your-nodejs-apps-using-es6-6dh0edw2o)
-- [Hello World in express](https://expressjs.com/en/starter/hello-world.html)
 - [Using Jasmine with node](https://jasmine.github.io/setup/nodejs.html)
